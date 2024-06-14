@@ -6,21 +6,21 @@ import binSearch from "./images/binaryTree.png";
 import Recursion from "./images/Recursion.jpg";
 export function getDetails() {
   return [
-    {
-      id: 1,
-      title: "Pathfinder",
-      description: "Visualize graph algorithms like dijkstra, BFS, DFS",
-      route: "/pathfinder",
-      img: graph,
-    },
-    {
-      id: 2,
-      title: "Recursion Tree",
-      description:
-        "The process in which a function calls itself directly or indirectly is called recursion. Work in progress",
-      route: "/graph",
-      img: Recursion,
-    },
+    // {
+    //   id: 1,
+    //   title: "Pathfinder",
+    //   description: "Visualize graph algorithms like dijkstra, BFS, DFS",
+    //   route: "/pathfinder",
+    //   img: graph,
+    // },
+    // {
+    //   id: 2,
+    //   title: "Recursion Tree",
+    //   description:
+    //     "The process in which a function calls itself directly or indirectly is called recursion. Work in progress",
+    //   route: "/graph",
+    //   img: Recursion,
+    // },
     {
       id: 3,
       title: "Sorting Algorithm",
@@ -35,14 +35,14 @@ export function getDetails() {
       route: "/recursivesort",
       img: sort,
     },
-    {
-      id: 5,
-      title: "N Queen",
-      description:
-        "The N queens puzzle is the problem of placing N chess queens on an N*N chessboard so that no two queens threaten each other",
-      route: "/nqueen",
-      img: queen,
-    },
+    // {
+    //   id: 5,
+    //   title: "N Queen",
+    //   description:
+    //     "The N queens puzzle is the problem of placing N chess queens on an N*N chessboard so that no two queens threaten each other",
+    //   route: "/nqueen",
+    //   img: queen,
+    // },
     {
       id: 6,
       title: "Prime Numbers",
