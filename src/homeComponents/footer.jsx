@@ -5,7 +5,7 @@ class Footer extends Component {
     return (
       <div className="greet">
         <hr className="dropdown-divider" />
-        <h7>&copy; Krishan Singh 2024.</h7>
+        <h7>&copy; Harshit Pandey 2023.</h7>
         <hr className="dropdown-divider" />
       </div>
     );
